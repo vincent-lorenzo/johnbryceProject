@@ -12,10 +12,10 @@ mylist = ["egg", "meat" , "milk", "bread" , "butter" , "banana"]
 print(mylist[5])
 print(mylist)
 mylist.append("salt")
-print(mylist)
+print(mylist) 
 
 mylist.remove("butter")
 print(mylist)
-
+  
 del mylist[1]
 print(mylist)
